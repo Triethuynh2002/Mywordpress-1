@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Sản phẩm &#8211; trietcute</title>
-	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
+	<title>du-lich &#8211; trietcute</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/chua-phan-loai/du-lich/feed/" rel="self" type="application/rss+xml" />
 	<link>https://triethuynh2002.github.io/Mywordpress-1</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Sat, 03 Jul 2021 04:39:34 +0000</lastBuildDate>
