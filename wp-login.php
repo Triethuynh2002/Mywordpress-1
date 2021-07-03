@@ -92,7 +92,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 <script type="text/javascript" src="https://triethuynh2002.github.io/Mywordpress-1/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"14a080cbb7"};
+var userProfileL10n = {"user_id":"0","nonce":"340b652957"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
