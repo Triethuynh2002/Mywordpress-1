@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Phan Thiết &#8211; trietcute</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/phan-thiet/feed/" rel="self" type="application/rss+xml" />
+	<link>https://triethuynh2002.github.io/Mywordpress-1</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 03 Jul 2021 14:35:56 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Phan Thiết</title>
+		<link>https://triethuynh2002.github.io/Mywordpress-1/sản%20phẩm/phan-thiet/</link>
+					<comments>https://triethuynh2002.github.io/Mywordpress-1/sản%20phẩm/phan-thiet/#respond</comments>
+		
+		<dc:creator><![CDATA[triethuynh]]></dc:creator>
+		<pubDate>Sat, 03 Jul 2021 14:35:55 +0000</pubDate>
+				<guid isPermaLink="false">https://triethuynh2002.github.io/Mywordpress-1/?post_type=product&#038;p=535</guid>
+
+					<description><![CDATA[<h1>Giới Thiệu</h1>
+Phan Thiết là một trong những điểm du lịch mà bạn có thể ghé thăm vào mọi thời điểm trong năm. Rất nhiều người đã từng đến du lịch Phan Thiết nhưng chắc chưa ai đi hết được tất cả những địa điểm du lịch Phan Thiết nổi tiếng. Hãy tham khảo bài viết tổng hợp những địa danh không thể bỏ qua khi đi du lịch Phan Thiết dưới đây để có thể tìm đến tất cả những địa danh nổi tiếng ở Phan Thiết nhé]]></description>
+										<content:encoded><![CDATA[<h1>Giới Thiệu</h1>
+<p>Phan Thiết là một trong những điểm du lịch mà bạn có thể ghé thăm vào mọi thời điểm trong năm. Rất nhiều người đã từng đến du lịch Phan Thiết nhưng chắc chưa ai đi hết được tất cả những địa điểm du lịch Phan Thiết nổi tiếng. Hãy tham khảo bài viết tổng hợp những địa danh không thể bỏ qua khi đi du lịch Phan Thiết dưới đây để có thể tìm đến tất cả những địa danh nổi tiếng ở Phan Thiết nhé</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://triethuynh2002.github.io/Mywordpress-1/sản%20phẩm/phan-thiet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
