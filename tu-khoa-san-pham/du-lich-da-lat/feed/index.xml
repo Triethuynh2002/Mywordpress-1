@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>du lịch Đà Lạt &#8211; trietcute</title>
+	<title>du lịch Đà Lạt &#8211; Du lịch</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/du-lich-da-lat/feed/" rel="self" type="application/rss+xml" />
 	<link>https://triethuynh2002.github.io/Mywordpress-1</link>
 	<description>Một trang web mới sử dụng WordPress</description>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Đà Lạt</title>
-		<link>https://triethuynh2002.github.io/Mywordpress-1/sản%20phẩm/da-lat/</link>
-					<comments>https://triethuynh2002.github.io/Mywordpress-1/sản%20phẩm/da-lat/#respond</comments>
+		<link>https://triethuynh2002.github.io/Mywordpress-1/product/da-lat/</link>
+					<comments>https://triethuynh2002.github.io/Mywordpress-1/product/da-lat/#respond</comments>
 		
 		<dc:creator><![CDATA[triethuynh]]></dc:creator>
 		<pubDate>Sat, 03 Jul 2021 14:33:22 +0000</pubDate>
@@ -34,7 +34,7 @@ Nhắc đến Đà Lạt, chắc chắn ai cũng xuýt xoa trước vẻ đẹp 
 <p>Nhắc đến Đà Lạt, chắc chắn ai cũng xuýt xoa trước vẻ đẹp có một không hai của thành phố ngàn hoa này. Với tiết trời quanh năm dịu dàng, cuộc sống bình yên với con người hiền hòa, Đà Lạt luôn là lựa chọn số một cho những chuyến đi phượt ngắn ngày hay nghỉ dưỡng dài ngày. Nào, hãy cùng Klook tổng hợp các địa điểm <a href="https://www.klook.com/vi/city/207-da-lat-things-to-do/?from_campaign=vn_dalatattractions_ao_vi-vn&amp;from_medium=content&amp;from_source=blog" target="_blank" rel="noopener" data-spm-module="InArticleHyperlinkWord?ext={&quot;LinkURL&quot;:&quot;https%3A%2F%2Fwww.klook.com%2Fvi%2Fcity%2F207-da-lat-things-to-do%2F%3Ffrom_campaign%3Dvn_dalatattractions_ao_vi-vn%26from_medium%3Dcontent%26from_source%3Dblog&quot;}" data-v-7823762d=""><span data-spm-item="__default?typ=entry" data-v-7823762d="">du lịch Đà Lạt</span></a> nhất định phải ghé thăm nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://triethuynh2002.github.io/Mywordpress-1/sản%20phẩm/da-lat/feed/</wfw:commentRss>
+					<wfw:commentRss>https://triethuynh2002.github.io/Mywordpress-1/product/da-lat/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

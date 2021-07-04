@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Phú Quốc &#8211; trietcute</title>
+	<title>Phú Quốc &#8211; Du lịch</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/phu-quoc/feed/" rel="self" type="application/rss+xml" />
 	<link>https://triethuynh2002.github.io/Mywordpress-1</link>
 	<description>Một trang web mới sử dụng WordPress</description>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Phú Quốc</title>
-		<link>https://triethuynh2002.github.io/Mywordpress-1/sản%20phẩm/phu-quoc/</link>
-					<comments>https://triethuynh2002.github.io/Mywordpress-1/sản%20phẩm/phu-quoc/#respond</comments>
+		<link>https://triethuynh2002.github.io/Mywordpress-1/product/phu-quoc/</link>
+					<comments>https://triethuynh2002.github.io/Mywordpress-1/product/phu-quoc/#respond</comments>
 		
 		<dc:creator><![CDATA[triethuynh]]></dc:creator>
 		<pubDate>Sat, 03 Jul 2021 14:29:40 +0000</pubDate>
@@ -34,7 +34,7 @@
 <p><a href="https://dulichviet.com.vn/du-lich-phu-quoc" target="_blank" rel="noopener"><strong>Du lịch Phú Quốc</strong></a> &#8211; Đảo ngọc Phú Quốc nằm sâu trong Vịnh Thái Lan, là điểm đến cho du khách thích hình thức du lịch nghỉ dưỡng và khám phá sinh thái Tuyệt vời. Đến với <a href="https://dulichviet.com.vn/du-lich-phu-quoc" target="_blank" rel="noopener"><strong>Tour Phú Quốc</strong></a> du khách sẽ được tham quan các đảo lớn nhỏ, được thả hồn vào màn nước trong veo, thưởng thức những đặc sản của biển, những món ăn đậm chất nơi đây&#8230; Các <a href="https://dulichviet.com.vn/du-lich-phu-quoc" target="_blank" rel="noopener"><em><strong>tour Du lịch Phú Quốc</strong></em></a> luôn được <a href="http://dulichviet.com.vn/" target="_blank" rel="noopener"><strong>Du lịch Việt</strong></a> mở bán hàng ngày với chất lượng và dịch vụ tốt nhất. Quý khách có thể đặt <a href="https://dulichviet.com.vn/du-lich-phu-quoc" target="_blank" rel="noopener"><em><strong>tour Phú Quốc</strong></em></a> trực tuyến tại Website hoặc liên hệ trực tiếp tại văn phòng công ty để được tư vấn tốt nhất.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://triethuynh2002.github.io/Mywordpress-1/sản%20phẩm/phu-quoc/feed/</wfw:commentRss>
+					<wfw:commentRss>https://triethuynh2002.github.io/Mywordpress-1/product/phu-quoc/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

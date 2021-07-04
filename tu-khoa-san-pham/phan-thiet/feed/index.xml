@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Phan Thiết &#8211; trietcute</title>
+	<title>Phan Thiết &#8211; Du lịch</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/phan-thiet/feed/" rel="self" type="application/rss+xml" />
 	<link>https://triethuynh2002.github.io/Mywordpress-1</link>
 	<description>Một trang web mới sử dụng WordPress</description>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Phan Thiết</title>
-		<link>https://triethuynh2002.github.io/Mywordpress-1/sản%20phẩm/phan-thiet/</link>
-					<comments>https://triethuynh2002.github.io/Mywordpress-1/sản%20phẩm/phan-thiet/#respond</comments>
+		<link>https://triethuynh2002.github.io/Mywordpress-1/product/phan-thiet/</link>
+					<comments>https://triethuynh2002.github.io/Mywordpress-1/product/phan-thiet/#respond</comments>
 		
 		<dc:creator><![CDATA[triethuynh]]></dc:creator>
 		<pubDate>Sat, 03 Jul 2021 14:35:55 +0000</pubDate>
@@ -34,7 +34,7 @@ Phan Thiết là một trong những điểm du lịch mà bạn có thể ghé 
 <p>Phan Thiết là một trong những điểm du lịch mà bạn có thể ghé thăm vào mọi thời điểm trong năm. Rất nhiều người đã từng đến du lịch Phan Thiết nhưng chắc chưa ai đi hết được tất cả những địa điểm du lịch Phan Thiết nổi tiếng. Hãy tham khảo bài viết tổng hợp những địa danh không thể bỏ qua khi đi du lịch Phan Thiết dưới đây để có thể tìm đến tất cả những địa danh nổi tiếng ở Phan Thiết nhé</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://triethuynh2002.github.io/Mywordpress-1/sản%20phẩm/phan-thiet/feed/</wfw:commentRss>
+					<wfw:commentRss>https://triethuynh2002.github.io/Mywordpress-1/product/phan-thiet/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

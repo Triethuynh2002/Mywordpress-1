@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Vlinh Lan Hạ &#8211; trietcute</title>
+	<title>Vlinh Lan Hạ &#8211; Du lịch</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/vlinh-lan-ha/feed/" rel="self" type="application/rss+xml" />
 	<link>https://triethuynh2002.github.io/Mywordpress-1</link>
 	<description>Một trang web mới sử dụng WordPress</description>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Vịnh Lan Hạ</title>
-		<link>https://triethuynh2002.github.io/Mywordpress-1/sản%20phẩm/vinh-lan-ha/</link>
-					<comments>https://triethuynh2002.github.io/Mywordpress-1/sản%20phẩm/vinh-lan-ha/#respond</comments>
+		<link>https://triethuynh2002.github.io/Mywordpress-1/product/vinh-lan-ha/</link>
+					<comments>https://triethuynh2002.github.io/Mywordpress-1/product/vinh-lan-ha/#respond</comments>
 		
 		<dc:creator><![CDATA[triethuynh]]></dc:creator>
 		<pubDate>Sat, 03 Jul 2021 14:20:44 +0000</pubDate>
@@ -34,7 +34,7 @@ Tọa lạc tại phía nam vịnh Hạ Long và phía đông của đảo Cát 
 <p>Tọa lạc tại phía nam vịnh Hạ Long và phía đông của đảo Cát Bà, vịnh Lan Hạ đang trở thành một điểm du lịch được nhiều du khách yêu thích trong thời gian gần đây. Quần đảo này rộng hơn 7000 ha, sở hữu trên 400 hòn đảo lớn nhỏ khác nhau, với những bãi tắm chưa bị khai thác nhiều. Điểm hấp dẫn của vịnh Lan Hạ chính là vẻ đẹp hoang sơ, không gian yên tĩnh không đâu có được, rất phù hợp là điểm đến cho những ai muốn tìm kiếm không gian mới để nghỉ dưỡng. Bên cạnh đó, <strong>du lịch vịnh Lan Hạ</strong>, bạn còn có có cơ hội được ghé thăm làng chài Cửa Vạn, làng chài Cái Bèo để khám phá cuộc sống thường nhật của những người ngư dân nơi đây.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://triethuynh2002.github.io/Mywordpress-1/sản%20phẩm/vinh-lan-ha/feed/</wfw:commentRss>
+					<wfw:commentRss>https://triethuynh2002.github.io/Mywordpress-1/product/vinh-lan-ha/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

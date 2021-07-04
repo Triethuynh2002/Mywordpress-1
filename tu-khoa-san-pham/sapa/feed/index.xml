@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>SAPA &#8211; trietcute</title>
+	<title>SAPA &#8211; Du lịch</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/sapa/feed/" rel="self" type="application/rss+xml" />
 	<link>https://triethuynh2002.github.io/Mywordpress-1</link>
 	<description>Một trang web mới sử dụng WordPress</description>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>TUA DU LICH SAPA %&#038; FANSIPAN</title>
-		<link>https://triethuynh2002.github.io/Mywordpress-1/sản%20phẩm/tua-du-lich-sapa-fansipan/</link>
-					<comments>https://triethuynh2002.github.io/Mywordpress-1/sản%20phẩm/tua-du-lich-sapa-fansipan/#respond</comments>
+		<link>https://triethuynh2002.github.io/Mywordpress-1/product/tua-du-lich-sapa-fansipan/</link>
+					<comments>https://triethuynh2002.github.io/Mywordpress-1/product/tua-du-lich-sapa-fansipan/#respond</comments>
 		
 		<dc:creator><![CDATA[triethuynh]]></dc:creator>
 		<pubDate>Sat, 03 Jul 2021 14:13:12 +0000</pubDate>
@@ -41,7 +41,7 @@
 <p><strong>Đỉnh Fansipan: </strong>Với độ cao 3.143m, nơi đây được mệnh danh là &#8220;nóc nhà của Đông Dương&#8221;. Từ đỉnh Fansipan du khách có thể ngắm nhìn trọn vẹn vẻ đẹp thiên nhiên hùng vĩ của nơi đây, xa xa là hãy Hoàng Liên Sơn sừng sững. Bạn cũng đừng quên chụp một vài tấm hình với cột mốc Fansipan để lưu lại hành trình chinh phục đỉnh núi này của mình nhé.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://triethuynh2002.github.io/Mywordpress-1/sản%20phẩm/tua-du-lich-sapa-fansipan/feed/</wfw:commentRss>
+					<wfw:commentRss>https://triethuynh2002.github.io/Mywordpress-1/product/tua-du-lich-sapa-fansipan/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

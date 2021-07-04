@@ -2,7 +2,7 @@
 <html lang="vi">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Đăng nhập &lsaquo; trietcute &#8212; WordPress</title>
+	<title>Đăng nhập &lsaquo; Du lịch &#8212; WordPress</title>
 	<meta name="robots" content="noindex, nofollow, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="dashicons-css" href="https://triethuynh2002.github.io/Mywordpress-1/wp-includes/css/dashicons.min.css?ver=5.7.2" type="text/css" media="all">
@@ -51,7 +51,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="https://triethuynh2002.github.io/Mywordpress-1/">&larr; Quay lại trietcute</a>		</p>
+			<a href="https://triethuynh2002.github.io/Mywordpress-1/">&larr; Quay lại Du lịch</a>		</p>
 			</div>
 	<script type="text/javascript" src="https://triethuynh2002.github.io/Mywordpress-1/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://triethuynh2002.github.io/Mywordpress-1/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
