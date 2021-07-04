@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>KSHL &#8211; Du lịch</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/kshl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://triethuynh2002.github.io/Mywordpress-1</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 04 Jul 2021 06:59:52 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Draha Halong Hotel</title>
+		<link>https://triethuynh2002.github.io/Mywordpress-1/product/draha-halong-hotel/</link>
+					<comments>https://triethuynh2002.github.io/Mywordpress-1/product/draha-halong-hotel/#respond</comments>
+		
+		<dc:creator><![CDATA[triethuynh]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 06:59:51 +0000</pubDate>
+				<guid isPermaLink="false">https://triethuynh2002.github.io/Mywordpress-1/?post_type=product&#038;p=569</guid>
+
+					<description><![CDATA[<div id="summary" class="">
+<div id="property_description_content">
+
+Tọa lạc ở thành phố Hạ Long, Draha Halong Hotel có nhà hàng, quán bar, sảnh khách chung và khu vườn. Chỗ nghỉ có các phòng gia đình và sân hiên. Khách sạn cũng cung cấp dịch vụ lễ tân 24 giờ, dịch vụ phòng và dịch vụ thu đổi ngoại tệ cho khách.
+
+Tất cả phòng nghỉ tại đây đều được trang bị máy điều hòa, TV truyền hình cáp màn hình phẳng, ấm đun nước, chậu rửa vệ sinh (bidet), máy sấy tóc và bàn làm việc. Các phòng còn có phòng tắm riêng với vòi sen cùng đồ vệ sinh cá nhân miễn phí và WiFi miễn phí. Tại Draha Halong Hotel, mỗi phòng cũng được bố trí khu vực ghế ngồi.
+
+Chỗ nghỉ phục vụ bữa sáng kiểu lục địa hoặc bữa sáng à la carte.
+
+Khách tại Draha Halong Hotel có thể tham gia các hoạt động trong và xung quanh Hạ Long, như đi bộ đường dài.
+
+Chỗ nghỉ cũng có quầy bar bán đồ ăn nhẹ trong khuôn viên và du khách có thể sử dụng khu dịch vụ doanh nhân.
+
+Bãi biển Bãi Cháy nằm cách khách sạn 1,8 km trong khi trung tâm thương mại Vincom Plaza Hạ Long cách đó 2,1 km. Sân bay gần nhất là sân bay quốc tế Cát Bi, nằm trong bán kính 39 km từ Draha Halong Hotel.
+
+</div>
+</div>
+<p class="hp-desc-review-highlight hp-desc-traveller-type--ph-v0">Các cặp đôi đặc biệt thích địa điểm này — họ cho điểm <strong>8,1</strong> cho kỳ nghỉ dành cho 2 người.</p>
+<p class="hp-desc-we-speak">Chúng tôi sử dụng ngôn ngữ của bạn!</p>]]></description>
+										<content:encoded><![CDATA[<div id="summary" class="">
+<div id="property_description_content">
+<p>Tọa lạc ở thành phố Hạ Long, Draha Halong Hotel có nhà hàng, quán bar, sảnh khách chung và khu vườn. Chỗ nghỉ có các phòng gia đình và sân hiên. Khách sạn cũng cung cấp dịch vụ lễ tân 24 giờ, dịch vụ phòng và dịch vụ thu đổi ngoại tệ cho khách.</p>
+<p>Tất cả phòng nghỉ tại đây đều được trang bị máy điều hòa, TV truyền hình cáp màn hình phẳng, ấm đun nước, chậu rửa vệ sinh (bidet), máy sấy tóc và bàn làm việc. Các phòng còn có phòng tắm riêng với vòi sen cùng đồ vệ sinh cá nhân miễn phí và WiFi miễn phí. Tại Draha Halong Hotel, mỗi phòng cũng được bố trí khu vực ghế ngồi.</p>
+<p>Chỗ nghỉ phục vụ bữa sáng kiểu lục địa hoặc bữa sáng à la carte.</p>
+<p>Khách tại Draha Halong Hotel có thể tham gia các hoạt động trong và xung quanh Hạ Long, như đi bộ đường dài.</p>
+<p>Chỗ nghỉ cũng có quầy bar bán đồ ăn nhẹ trong khuôn viên và du khách có thể sử dụng khu dịch vụ doanh nhân.</p>
+<p>Bãi biển Bãi Cháy nằm cách khách sạn 1,8 km trong khi trung tâm thương mại Vincom Plaza Hạ Long cách đó 2,1 km. Sân bay gần nhất là sân bay quốc tế Cát Bi, nằm trong bán kính 39 km từ Draha Halong Hotel.</p>
+</div>
+</div>
+<p class="hp-desc-review-highlight hp-desc-traveller-type--ph-v0">Các cặp đôi đặc biệt thích địa điểm này — họ cho điểm <strong>8,1</strong> cho kỳ nghỉ dành cho 2 người.</p>
+<p class="hp-desc-we-speak">Chúng tôi sử dụng ngôn ngữ của bạn!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://triethuynh2002.github.io/Mywordpress-1/product/draha-halong-hotel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

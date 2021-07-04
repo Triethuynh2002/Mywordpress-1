@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>KSPT &#8211; Du lịch</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/kspt/feed/" rel="self" type="application/rss+xml" />
+	<link>https://triethuynh2002.github.io/Mywordpress-1</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 04 Jul 2021 06:01:57 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Khách sạn</title>
+		<link>https://triethuynh2002.github.io/Mywordpress-1/product/khach-san/</link>
+					<comments>https://triethuynh2002.github.io/Mywordpress-1/product/khach-san/#respond</comments>
+		
+		<dc:creator><![CDATA[triethuynh]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 06:01:56 +0000</pubDate>
+				<guid isPermaLink="false">https://triethuynh2002.github.io/Mywordpress-1/?post_type=product&#038;p=540</guid>
+
+					<description><![CDATA[Khu nghỉ dưỡng &#38; Spa Anantara Mũi Né là một lựa chọn tuyệt vời cho khách du lịch khi đến Phan Thiết, cung cấp không khí sang trọng cùng với nhiều tiện nghi hữu ích cho kì nghỉ của bạn.
+
+Gần với Forgotten Land Sand Sculpture Park (2,3 km), một địa danh nổi tiếng ở Phan Thiết, Anantara Mui Ne Hotel là một lưạ chọn lý tưởng cho khách du lịch.
+
+Các phòng khách sạn cung cấp tv màn hình phẳng, quầy bar mini và điều hòa nhiệt độ, và Anantara Mui Ne Hotel làm cho việc kết nối internet trở nên dễ dàng vì wifi miễn phí có sẵn.
+
+Bạn cũng có thể tận hưởng một số tiện nghi được cung cấp bởi khách sạn, bao gồm dịch vụ phòng và nhân viên hỗ trợ khách. Hơn nữa, khách có thể tận hưởng bể bơi và bữa sáng trong suốt thời gian ở đây. Một điểm thuận tiện nữa đó là đỗ xe miễn phí có sẵn cho khách.
+
+Khách du lịch thích thưởng thức sườn có thể tới Joe's Cafe hoặc Nhà Hàng Hill's Smokeria restaurant &#38; Bar. Nếu không, bạn có thể thử nhà hàng kiểu ấn độ như Ganesh Indian Restaurant, Mughal House Indian Restaurant hoặc Salt &#38; Pepper - Indian &#38; Vietnamese Cuisine.]]></description>
+										<content:encoded><![CDATA[<p>Khu nghỉ dưỡng &amp; Spa Anantara Mũi Né là một lựa chọn tuyệt vời cho khách du lịch khi đến Phan Thiết, cung cấp không khí sang trọng cùng với nhiều tiện nghi hữu ích cho kì nghỉ của bạn.</p>
+<p>Gần với Forgotten Land Sand Sculpture Park (2,3 km), một địa danh nổi tiếng ở Phan Thiết, Anantara Mui Ne Hotel là một lưạ chọn lý tưởng cho khách du lịch.</p>
+<p>Các phòng khách sạn cung cấp tv màn hình phẳng, quầy bar mini và điều hòa nhiệt độ, và Anantara Mui Ne Hotel làm cho việc kết nối internet trở nên dễ dàng vì wifi miễn phí có sẵn.</p>
+<p>Bạn cũng có thể tận hưởng một số tiện nghi được cung cấp bởi khách sạn, bao gồm dịch vụ phòng và nhân viên hỗ trợ khách. Hơn nữa, khách có thể tận hưởng bể bơi và bữa sáng trong suốt thời gian ở đây. Một điểm thuận tiện nữa đó là đỗ xe miễn phí có sẵn cho khách.</p>
+<p>Khách du lịch thích thưởng thức sườn có thể tới Joe&#8217;s Cafe hoặc Nhà Hàng Hill&#8217;s Smokeria restaurant &amp; Bar. Nếu không, bạn có thể thử nhà hàng kiểu ấn độ như Ganesh Indian Restaurant, Mughal House Indian Restaurant hoặc Salt &amp; Pepper &#8211; Indian &amp; Vietnamese Cuisine.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://triethuynh2002.github.io/Mywordpress-1/product/khach-san/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
